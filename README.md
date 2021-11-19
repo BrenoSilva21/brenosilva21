@@ -1,4 +1,4 @@
-##  Oiii eu sou Breno Siva, estudante de Desenvolvimento de Software!
+##  Oiii eu sou Breno Silva, estudante de Desenvolvimento de Software!
 <div align = "center">
   <a href="https://github.com/BrenoSilva21">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=BrenoSilva21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -16,6 +16,9 @@
   <a href = "https://www.linkedin.com/in/brenosilvaesilva" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a> 
  
 ![ Animação de cobra ](https://github.com/BrenoSilva21/BrenoSilva21/blob/output/github-contribution-grid-snake.svg)
+
+ 
+
 
  
 
